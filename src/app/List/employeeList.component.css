@@ -1,0 +1,16 @@
+table{
+	font-family: serif;
+	font-weight: bold;
+	font-size: large;
+	font: normal;
+	color: blue;
+	border-collapse: collapse;
+}
+thead{
+	border: 1px solid #369;
+	padding: 5px;
+}
+th{
+	border: 1px solid #369;
+	padding: 5px;
+}
